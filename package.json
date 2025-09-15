@@ -2,7 +2,7 @@
   "name": "express-typescript-api",
   "version": "1.0.0",
   "description": "A complete Express TypeScript API template",
-  "main": "dist/app.js",
+  "main": "src/app.ts",
   "scripts": {
     "build": "tsc",
     "start": "node dist/app.js",
